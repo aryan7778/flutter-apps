@@ -1,6 +1,8 @@
-### Here are some *Dart* files of Flutter projects
+## Here are some *Dart* files of Flutter projects
 
-## BMI Calculator
-## Screenshot
-![](bmi-calculator/bmi_image.png)
+### BMI Calculator
+
+#### Screenshot
+
+![](bmi-calculator/bmi_image.jpg)
 
